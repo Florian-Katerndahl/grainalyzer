@@ -37,7 +37,7 @@ from grainalyzer import grainalyzer
 | `extract_depth()`          | find the sample depth information                            |
 | `read_gs_to_df()`          | built a pandas dataframe based from csv input files          |
 | `cut_off_zeros()`          | cut off zeros if they occur in EVERY sample                  |
-| `iameter_2_krumbein_phi()` | convert grain-sizes diameter to phi scale                    |
+| `diameter_2_krumbein_phi()` | convert grain-sizes diameter to phi scale                    |
 | `gs_simplex_2_rplus()`     | perform clr on all aliquot measurements                      |
 | `mean_curves_clr()`        | summarize the aliquots & the subsamples into mean curves     |
 
